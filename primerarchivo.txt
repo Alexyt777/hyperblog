@@ -11,3 +11,9 @@ por eso hay que poner manos a la obra y ver como se usan las herramientas mas us
 y tambien probar como es el uso de estas herramientas ]
 
 asi que dejo de escribir y pasamos a la prueba
+
+asi  que estas lineas de codigo solo son pruebas de git
+
+para ver como esto funciona 
+
+pero estoy entendiendo mucho de este tema y me esta pareciendo muy interesante
