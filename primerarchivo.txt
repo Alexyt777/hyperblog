@@ -2,7 +2,7 @@ Esto es solo una simple prueba
 
 para ver como es el uso de la herramienta git 
 
-una herramienta muy utilizada en el mundo de la programacion, pero aparte de ser muy utilizada es muy buena
+una herramienta muy utilizada en el mundo de la programacion 
 
 por las [ersonas que tienen mucha experiencia en esto de la programacion
 
@@ -12,12 +12,4 @@ y tambien probar como es el uso de estas herramientas ]
 
 asi que dejo de escribir y pasamos a la prueba
 
-asi  que estas lineas de codigo solo son pruebas de git
-
-para ver como esto funciona 
-
-pero estoy entendiendo mucho de este tema y me esta pareciendo muy interesante
-
-ahora hablaremos no de su historia si no de su vida, asi que todo lo que se escribio antes no sirve de nada  
-
-cambio de maestria
+pero lo que pasa
