@@ -2,7 +2,7 @@ Esto es solo una simple prueba
 
 para ver como es el uso de la herramienta git 
 
-una herramienta muy utilizada en el mundo de la programacion 
+una herramienta muy utilizada en el mundo de la programacion, pero aparte de ser muy utilizada es muy buena
 
 por las [ersonas que tienen mucha experiencia en esto de la programacion
 
